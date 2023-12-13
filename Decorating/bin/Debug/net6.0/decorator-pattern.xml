@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>decorator-pattern</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.ObjectModel.Decorating.Decorable">
+            <summary>
+            Represents an object that can be decorated by another <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> object.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable.#ctor(Senkel.ObjectModel.Decorating.IDecorator)">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorable"/> class that is decorated by the specified <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> object.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.Decorable"/> instance is decorated by.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorable"/> class that is not decorated by any <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> object
+            by using the <see cref="P:Senkel.ObjectModel.Decorating.IdentityDecorator.Instance"/> value instead.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable.Decorate">
+            <summary>
+            Decorates the object using the initially set <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> object.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.Decorable`1">
+            <summary>
+            Represents an object that can be decorated by another <see cref="T:Senkel.ObjectModel.Decorating.IDecorator`1"/> object.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable`1.#ctor(Senkel.ObjectModel.Decorating.IDecorator{`0})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorable`1"/> class that is decorated by the specified <see cref="T:Senkel.ObjectModel.Decorating.IDecorator`1"/> object.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.Decorable`1"/> instance is decorated by.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable`1.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorable`1"/> class that is not decorated by any <see cref="T:Senkel.ObjectModel.Decorating.IDecorator`1"/> object
+            by using the <see cref="P:Senkel.ObjectModel.Decorating.IdentityDecorator`1.Instance"/> value instead.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorable`1.Decorate(`0)">
+            <summary>
+            Decorated the object using the initially set <see cref="T:Senkel.ObjectModel.Decorating.IDecorator`1"/> object.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.Decorator">
+            <summary>
+            Represents an implementation of the <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> interface that decorates by executing a method with no parameters and no return value.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator.#ctor(Senkel.ObjectModel.Decorating.IDecorator)">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorator"/> class that is based on the specified base decorator.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.Decorator"/> instance is based on.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorator"/> class that is based on no other decorator and therefore functions as a root for other decorators.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator.Decorate">
+            <summary>
+            Decorates by executing some behaviour.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.Decorator`1">
+            <summary>
+            Represents an implementation of the <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> interface that decorates by executing a method with one parameter of the specified type and no return value.
+            </summary>
+            <typeparam name="T">The type of the parameter used in the <see cref="M:Senkel.ObjectModel.Decorating.Decorator`1.Decorate(`0)"/> method.</typeparam>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator`1.#ctor(Senkel.ObjectModel.Decorating.IDecorator{`0})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorator`1"/> class that is based on the specified base decorator.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.Decorator`1"/> instance is based on.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator`1.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.Decorator`1"/> class that is based on no other decorator and therefore functions as a root for other decorators.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.Decorator`1.Decorate(`0)">
+            <summary>
+            Decorates by executing some behaviour based on the specified value.
+            </summary>
+            <param name="value">The value to use for decorating.</param>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.IDecorator">
+            <summary>
+            Represents a decorator that decorates by executing a method with no parameters and no return value.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.IDecorator.Decorate">
+            <summary>
+            Decorates by executing some behaviour.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.IDecorator`1">
+            <summary>
+            Represents a decorator that decorates by executing a method with one parameter of the specified type and no return value.
+            </summary>
+            <typeparam name="T">The type of the parameter used in the <see cref="M:Senkel.ObjectModel.Decorating.IDecorator`1.Decorate(`0)"/> method.</typeparam>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.IDecorator`1.Decorate(`0)">
+            <summary>
+            Decorates by executing some behaviour based on the specified value.
+            </summary>
+            <param name="value">The value to use for decorating.</param>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.IdentityDecorator">
+            <summary>
+            Represents a decorator that preserves the entity of the <see cref="T:Senkel.ObjectModel.Decorating.IDecorator"/> object that used this <see cref="P:Senkel.ObjectModel.Decorating.IdentityDecorator.Instance"/> value as a base and therefore does not apply any modifications.
+            </summary>
+        </member>
+        <member name="P:Senkel.ObjectModel.Decorating.IdentityDecorator.Instance">
+            <summary>
+            Returns a singleton instance of the <see cref="T:Senkel.ObjectModel.Decorating.IdentityDecorator"/> class.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.IdentityDecorator`1">
+            <summary>
+            Represents a decorator that preserves the entity of the <see cref="T:Senkel.ObjectModel.Decorating.IDecorator`1"/> or <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> object that used this <see cref="P:Senkel.ObjectModel.Decorating.IdentityDecorator`1.Instance"/> value as a base and therefore does not apply any modifications.
+            </summary>
+        </member>
+        <member name="P:Senkel.ObjectModel.Decorating.IdentityDecorator`1.Instance">
+            <summary>
+            Returns a singleton instance of the <see cref="T:Senkel.ObjectModel.Decorating.IdentityDecorator`1"/> class.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.IValueDecorator`1">
+            <summary>
+            Represents a decorator that is capable of decorating by returning an object that is based on another argument value.
+            </summary>
+            <typeparam name="T">The type of the object that can be modified by the decorator.</typeparam>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.IValueDecorator`1.Decorate(`0)">
+            <summary>
+            Decorates by returning a modified result based on the specified argument value.
+            </summary>
+            <param name="value">The value to base the modified result object on.</param>
+            <returns>The modified result based on the specified argument value.</returns>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.ValueDecorable`1">
+            <summary>
+            Represents an object that can be decorated by another <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> object.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorable`1.#ctor(Senkel.ObjectModel.Decorating.IValueDecorator{`0})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorable`1"/> class that is decorated by the specified <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> object.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorable`1"/> instance is decorated by.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorable`1.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorable`1"/> class that is not decorated by any <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> object
+            by using the <see cref="P:Senkel.ObjectModel.Decorating.IdentityDecorator`1.Instance"/> value instead.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorable`1.Decorate(`0)">
+            <summary>
+            Decorates the object using the initially set <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> object.
+            </summary>
+        </member>
+        <member name="T:Senkel.ObjectModel.Decorating.ValueDecorator`1">
+            <summary>
+            Represents an implementation of the <see cref="T:Senkel.ObjectModel.Decorating.IValueDecorator`1"/> interface that decorates by executing a method which returns a modified object of the specified type based on the specified argument.
+            </summary>
+            <typeparam name="T">The type of the argument and the result used in the <see cref="M:Senkel.ObjectModel.Decorating.ValueDecorator`1.Decorate(`0)"/> method.</typeparam>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorator`1.#ctor(Senkel.ObjectModel.Decorating.IValueDecorator{`0})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorator`1"/> class that is based on the specified base decorator.
+            </summary>
+            <param name="decorator">The decorator that this <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorator`1"/> instance is based on.</param>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorator`1.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.ObjectModel.Decorating.ValueDecorator`1"/> class that is based on no other decorator and therefore functions as a root for other decorators.
+            </summary>
+        </member>
+        <member name="M:Senkel.ObjectModel.Decorating.ValueDecorator`1.Decorate(`0)">
+            <summary>
+            Decorates by returning a modified result based on the specified argument value.
+            </summary>
+            <param name="value">The value to base the modified result object on.</param>
+            <returns>The modified result based on the specified argument value.</returns>
+        </member>
+    </members>
+</doc>
