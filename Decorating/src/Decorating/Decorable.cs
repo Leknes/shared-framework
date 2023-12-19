@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.ObjectModel.Decorating;
+namespace Senkel.Model.Decorating;
 
 /// <summary>
 /// Represents an object that can be decorated by another <see cref="IDecorator"/> object.
 /// </summary>
 public abstract class Decorable
 {
-    private readonly IDecorator _decorator;
+    /// <summary>
+    /// The decorator that is used by the decorable instance.
+    /// </summary>
+    protected readonly IDecorator Decorator;
 
     /// <summary>
     /// Creates a new instance of the <see cref="Decorable"/> class that is decorated by the specified <see cref="IDecorator"/> object.
@@ -19,7 +22,7 @@ public abstract class Decorable
     /// <param name="decorator">The decorator that this <see cref="Decorable"/> instance is decorated by.</param>
     public Decorable(IDecorator decorator)
     {
-        _decorator = decorator;
+        Decorator = decorator;
     }
 
     /// <summary>
@@ -33,7 +36,7 @@ public abstract class Decorable
     /// </summary>
     protected void Decorate()
     {
-        _decorator.Decorate();
+        Decorator.Decorate();
     }
 }
 
@@ -41,8 +44,11 @@ public abstract class Decorable
 /// Represents an object that can be decorated by another <see cref="IDecorator{T}"/> object.
 /// </summary>
 public class Decorable<T>
-{
-    private readonly IDecorator<T> _decorator;
+{   
+    /// <summary>
+    /// The decorator that is used by the decorable instance.
+    /// </summary>
+    protected readonly IDecorator<T> Decorator;
 
     /// <summary>
     /// Creates a new instance of the <see cref="Decorable{T}"/> class that is decorated by the specified <see cref="IDecorator{T}"/> object.
@@ -50,7 +56,7 @@ public class Decorable<T>
     /// <param name="decorator">The decorator that this <see cref="Decorable{T}"/> instance is decorated by.</param>
     public Decorable(IDecorator<T> decorator)
     {
-        _decorator = decorator;
+        Decorator = decorator;
     }
 
     /// <summary>
@@ -64,7 +70,7 @@ public class Decorable<T>
     /// </summary>
     protected void Decorate(T value)
     {
-        _decorator.Decorate(value);
+        Decorator.Decorate(value);
     }
 }
 

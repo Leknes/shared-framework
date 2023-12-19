@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.ObjectModel.Rendering;
+namespace Senkel.Model.Rendering;
 
 /// <summary>
 /// Represents an object that is capable of rendering an image of the specified type.
 /// </summary>
 /// <typeparam name="T">The type of the image object to be created.</typeparam>
-public interface IRenderer<T>
+public interface IRenderer<out T>
 {
     /// <summary>
     /// Returns an image object that represents the current state of the rendered object.

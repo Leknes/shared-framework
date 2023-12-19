@@ -1,0 +1,14 @@
+D:\GitHub\Senkel\Model\Loading\bin\Debug\net8.0\Senkel.Model.Loading.deps.json
+D:\GitHub\Senkel\Model\Loading\bin\Debug\net8.0\Senkel.Model.Loading.dll
+D:\GitHub\Senkel\Model\Loading\bin\Debug\net8.0\Senkel.Model.Loading.pdb
+D:\GitHub\Senkel\Model\Loading\bin\Debug\net8.0\Senkel.Model.Loading.xml
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.AssemblyInfoInputs.cache
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.AssemblyInfo.cs
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.csproj.CoreCompileInputs.cache
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.sourcelink.json
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.dll
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\refint\Senkel.Model.Loading.dll
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.xml
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\Senkel.Model.Loading.pdb
+D:\GitHub\Senkel\Model\Loading\obj\Debug\net8.0\ref\Senkel.Model.Loading.dll

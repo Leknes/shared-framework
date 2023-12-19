@@ -1,0 +1,14 @@
+D:\GitHub\Senkel\Model\Updating\bin\Debug\net8.0\Senkel.Model.Updating.deps.json
+D:\GitHub\Senkel\Model\Updating\bin\Debug\net8.0\Senkel.Model.Updating.dll
+D:\GitHub\Senkel\Model\Updating\bin\Debug\net8.0\Senkel.Model.Updating.pdb
+D:\GitHub\Senkel\Model\Updating\bin\Debug\net8.0\Senkel.Model.Updating.xml
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.AssemblyInfoInputs.cache
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.AssemblyInfo.cs
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.csproj.CoreCompileInputs.cache
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.sourcelink.json
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.dll
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\refint\Senkel.Model.Updating.dll
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.xml
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\Senkel.Model.Updating.pdb
+D:\GitHub\Senkel\Model\Updating\obj\Debug\net8.0\ref\Senkel.Model.Updating.dll

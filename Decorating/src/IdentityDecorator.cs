@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.ObjectModel.Decorating;
+namespace Senkel.Model.Decorating;
 
 /// <summary>
 /// Represents a decorator that preserves the entity of the <see cref="IDecorator"/> object that used this <see cref="Instance"/> value as a base and therefore does not apply any modifications.
@@ -22,9 +22,9 @@ public class IdentityDecorator : IDecorator
 }
 
 /// <summary>
-/// Represents a decorator that preserves the entity of the <see cref="IDecorator{T}"/> or <see cref="IValueDecorator{T}"/> object that used this <see cref="Instance"/> value as a base and therefore does not apply any modifications.
+/// Represents a decorator that preserves the entity of the <see cref="IDecorator{T}"/> or <see cref="IDuplexDecorator{T}"/> object that used this <see cref="Instance"/> value as a base and therefore does not apply any modifications.
 /// </summary>
-public class IdentityDecorator<T> : IValueDecorator<T>, IDecorator<T>
+public class IdentityDecorator<T> : IDuplexDecorator<T>, IDecorator<T>
 {
     private IdentityDecorator() { }
 
@@ -35,7 +35,7 @@ public class IdentityDecorator<T> : IValueDecorator<T>, IDecorator<T>
 
     void IDecorator<T>.Decorate(T value) { }
 
-    T IValueDecorator<T>.Decorate(T value)
+    T IDuplexDecorator<T>.Decorate(T value)
     {
         return value;
     }

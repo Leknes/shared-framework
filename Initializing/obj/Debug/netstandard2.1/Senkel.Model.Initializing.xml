@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Model.Initializing</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.Model.Initializing.IInitializable">
+            <summary>
+            Represents an object that can be initialized.
+            </summary>
+        </member>
+        <member name="M:Senkel.Model.Initializing.IInitializable.Initialize">
+            <summary>
+            Initializes the object.
+            </summary>
+        </member>
+        <member name="T:Senkel.Model.Initializing.IInitializable`1">
+            <summary>
+            Represents an object that can be initialized using a value.
+            </summary>
+            <typeparam name="T">The type of the value.</typeparam>
+        </member>
+        <member name="M:Senkel.Model.Initializing.IInitializable`1.Initialize(`0)">
+            <summary>
+            Initializes the object using the specified value.
+            </summary>
+            <param name="value">The value used for initializing.</param>
+        </member>
+        <member name="T:Senkel.Model.Initializing.IInitializable`2">
+            <summary>
+            Represents an object that can be initialized  using some values.
+            </summary>
+            <typeparam name="T1">The type of the first value.</typeparam>
+            <typeparam name="T2">The type of the second value.</typeparam>
+        </member>
+        <member name="M:Senkel.Model.Initializing.IInitializable`2.Initialize(`0,`1)">
+            <summary>
+            Initializes the object using the specified values.
+            </summary>
+            <param name="value1">The first value used for initializing.</param>
+            <param name="value2">The second value used for initializing.</param>
+        </member>
+        <member name="T:Senkel.Model.Initializing.IInitializable`3">
+            <summary>
+            Represents an object that can be initialized using some values.
+            </summary>
+            <typeparam name="T1">The type of the first value.</typeparam>
+            <typeparam name="T2">The type of the second value.</typeparam>
+            <typeparam name="T3">The type of the third value.</typeparam>
+        </member>
+        <member name="M:Senkel.Model.Initializing.IInitializable`3.Initialize(`0,`1,`2)">
+            <summary>
+            Initializes the object using the specified values.
+            </summary>
+            <param name="value1">The first value used for initializing.</param>
+            <param name="value2">The second value used for initializing.</param>
+            <param name="value3">The third value used for initializing.</param>
+        </member>
+    </members>
+</doc>

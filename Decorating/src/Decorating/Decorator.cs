@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.ObjectModel.Decorating;
+namespace Senkel.Model.Decorating;
  
 /// <summary>
 /// Represents an implementation of the <see cref="IDecorator"/> interface that decorates by executing a method with no parameters and no return value.

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageDescription>Provides a model for updating an object.</PackageDescription>
+    <PackageId>Senkel.Model.Updating</PackageId>
+    <RepositoryUrl>https://github.com/Leknes/shared-framework</RepositoryUrl>
+  </PropertyGroup>
+ 
+</Project>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Model.Loading</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.Model.Loading.ILoadable">
+            <summary>
+            Represents an object that can be loaded and unloaded.
+            </summary>
+        </member>
+        <member name="M:Senkel.Model.Loading.ILoadable.Load">
+            <summary>
+            Loads the object.
+            </summary>
+        </member>
+        <member name="M:Senkel.Model.Loading.ILoadable.Unload">
+            <summary>
+            Unloads the object.
+            </summary>
+        </member>
+    </members>
+</doc>

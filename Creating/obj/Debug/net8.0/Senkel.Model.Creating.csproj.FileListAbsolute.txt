@@ -1,0 +1,14 @@
+D:\GitHub\Senkel\Model\Creating\bin\Debug\net8.0\Senkel.Model.Creating.deps.json
+D:\GitHub\Senkel\Model\Creating\bin\Debug\net8.0\Senkel.Model.Creating.dll
+D:\GitHub\Senkel\Model\Creating\bin\Debug\net8.0\Senkel.Model.Creating.pdb
+D:\GitHub\Senkel\Model\Creating\bin\Debug\net8.0\Senkel.Model.Creating.xml
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.AssemblyInfoInputs.cache
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.AssemblyInfo.cs
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.csproj.CoreCompileInputs.cache
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.sourcelink.json
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.dll
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\refint\Senkel.Model.Creating.dll
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.xml
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\Senkel.Model.Creating.pdb
+D:\GitHub\Senkel\Model\Creating\obj\Debug\net8.0\ref\Senkel.Model.Creating.dll

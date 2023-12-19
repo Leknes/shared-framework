@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Senkel.Model.Measuring/1.0.0": {
+        "runtime": {
+          "Senkel.Model.Measuring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senkel.Model.Measuring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
