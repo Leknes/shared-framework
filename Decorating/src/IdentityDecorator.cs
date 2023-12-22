@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Decorating;
+namespace Senkel;
 
 /// <summary>
 /// Represents a decorator that preserves the entity of the <see cref="IDecorator"/> object that used this <see cref="Instance"/> value as a base and therefore does not apply any modifications.

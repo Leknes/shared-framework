@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NH79sqvBYB+T4FghDmDkSw8jYmf/zSRy1fwrE1ymWOy6QcH4vG1tokIGAkvTQlnpxHqQgRcOkPMy1Wy4bwy0PQ==",
+  "dgSpecHash": "zjMeA7yFvNICYYW3OoTNpshHueCsbFQcWzSOW+YEqa8kzbJsXDnvjNsHQVgsw0DDoO3OM9Brmd2G8NI4EYCM9A==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Senkel\\Model\\Creating\\Senkel.Model.Creating.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Senkel\\Core\\Creating\\Senkel.Core.Creating.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

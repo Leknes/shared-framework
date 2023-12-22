@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Core.Updating</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.IUpdatable">
+            <summary>
+            Represents an object that can be updated.
+            </summary>
+        </member>
+        <member name="M:Senkel.IUpdatable.Update">
+            <summary>
+            Updates the object.
+            </summary>
+        </member>
+    </members>
+</doc>

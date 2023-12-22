@@ -1,9 +1,9 @@
-namespace Senkel.Model.Measuring;
+namespace Senkel;
 /// <summary>
 /// Represents a stopwatch that can be started, stopped and reset.
 /// </summary>
 public interface IStopwatch : IReadOnlyStopwatch
-{ 
+{
     /// <summary>
     /// Starts or resumes the measurement of the stopwatch.
     /// </summary>

@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.deps.json
+D:\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.dll
+D:\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.pdb
+D:\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.xml
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.sourcelink.json
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.dll
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\refint\Senkel.Core.Updating.dll
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.xml
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.pdb
+D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\ref\Senkel.Core.Updating.dll

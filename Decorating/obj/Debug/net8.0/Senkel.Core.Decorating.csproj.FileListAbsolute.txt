@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Core\Decorating\bin\Debug\net8.0\Senkel.Core.Decorating.deps.json
+D:\Programming\C#\Senkel\Core\Decorating\bin\Debug\net8.0\Senkel.Core.Decorating.dll
+D:\Programming\C#\Senkel\Core\Decorating\bin\Debug\net8.0\Senkel.Core.Decorating.pdb
+D:\Programming\C#\Senkel\Core\Decorating\bin\Debug\net8.0\Senkel.Core.Decorating.xml
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.sourcelink.json
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.dll
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\refint\Senkel.Core.Decorating.dll
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.xml
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\Senkel.Core.Decorating.pdb
+D:\Programming\C#\Senkel\Core\Decorating\obj\Debug\net8.0\ref\Senkel.Core.Decorating.dll

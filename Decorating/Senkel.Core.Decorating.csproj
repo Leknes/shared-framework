@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Model.Decorating</PackageId>
+    <PackageDescription>Provides a light-weight model for implementing the decorator pattern.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

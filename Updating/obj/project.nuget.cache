@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u8Ek0KRMEr6rQMAk9m2jwmgR5ImWbyGdO7VzzwVKxv++WoUulMkCRZATDJZnKjkqC0nn2EfcUxxhyK+CTaeiJA==",
+  "dgSpecHash": "gYT+Me4uqF9/cMO17/NFzinRdJ9RayFFwG4VpEdmlxYrqKkH/CUWpWITQ4Py8b5Io4CdmiKUcv1E45no8nAaFw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Senkel\\Model\\Updating\\Senkel.Model.Updating.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Senkel\\Core\\Updating\\Senkel.Core.Updating.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

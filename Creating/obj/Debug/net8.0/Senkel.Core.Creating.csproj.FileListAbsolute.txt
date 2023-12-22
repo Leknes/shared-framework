@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Core\Creating\bin\Debug\net8.0\Senkel.Core.Creating.deps.json
+D:\Programming\C#\Senkel\Core\Creating\bin\Debug\net8.0\Senkel.Core.Creating.dll
+D:\Programming\C#\Senkel\Core\Creating\bin\Debug\net8.0\Senkel.Core.Creating.pdb
+D:\Programming\C#\Senkel\Core\Creating\bin\Debug\net8.0\Senkel.Core.Creating.xml
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.sourcelink.json
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.dll
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\refint\Senkel.Core.Creating.dll
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.xml
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\Senkel.Core.Creating.pdb
+D:\Programming\C#\Senkel\Core\Creating\obj\Debug\net8.0\ref\Senkel.Core.Creating.dll

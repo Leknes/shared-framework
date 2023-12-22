@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Model.Loading</PackageId>
+    <PackageDescription>A model providing a model for loading and unloading objects.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

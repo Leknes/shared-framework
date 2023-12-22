@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKMIcLs4luSttECfqEc2KqcTVr4R0ZZpzOL1l+0ESBx0WlGUiNqRo2TDimM6hMNE7HVHCECgXm0DFxxXVHn4pA==",
+  "dgSpecHash": "KNOhdITbj6YZa79YyuPfeuqZ1RJ5eJT1l/4RbtXIZQSEe/3GSvo11OojjpRjifL/PZPW6n2WRkerSG1VoW9rQw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Senkel\\Model\\Decorating\\Senkel.Model.Decorating.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Senkel\\Core\\Decorating\\Senkel.Core.Decorating.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

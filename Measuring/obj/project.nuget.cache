@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/Uy3NSb9yB5OvjoQQuJddy9OEFzxkCi+SJtAhaaBbRaN1tCRtotEqZYcqXFHb2WAqUwvbzvdDyyxgQXMQXv0Q==",
+  "dgSpecHash": "DVFBPuP0oBHSF9GWRVOsITQHeXk3uk83o3QdpZvFf5a39CUr5gTqhNtr43DsRXhCkfshZH8mpyzAbtp//Wxjxw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Senkel\\Model\\Measuring\\Senkel.Model.Measuring.csproj",
+  "projectFilePath": "D:\\Programming\\C#\\Senkel\\Core\\Measuring\\Senkel.Core.Measuring.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

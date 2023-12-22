@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Senkel.Core.Initializing/1.0.0": {
+        "runtime": {
+          "Senkel.Core.Initializing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senkel.Core.Initializing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

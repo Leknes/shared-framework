@@ -1,4 +1,4 @@
-namespace Senkel.Model.Initializing;
+namespace Senkel;
 
 /// <summary>
 /// Represents an object that can be initialized.

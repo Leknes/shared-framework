@@ -1,4 +1,4 @@
-namespace Senkel.Model.Loading;
+namespace Senkel;
 
 /// <summary>
 /// Represents an object that can be loaded and unloaded.

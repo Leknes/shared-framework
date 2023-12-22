@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Decorating;
-
+namespace Senkel;
 
 /// <summary>
 /// Represents an object that can be decorated by another <see cref="IDuplexDecorator{T}"/> object.
@@ -37,7 +36,7 @@ public class DuplexDecorable<T>
     /// </summary>
     protected T Decorate(T value)
     {
-       return Decorator.Decorate(value);
+        return Decorator.Decorate(value);
     }
 }
 

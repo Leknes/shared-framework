@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Measuring;
+namespace Senkel;
 
 /// <summary>
 /// Represents an adapter that implements the <see cref="IStopwatch"/> interface based on an <see cref="Stopwatch"/> object.
@@ -23,7 +23,7 @@ public class StopwatchAdapter : IStopwatch
     /// Initializes a new instance of the <see cref="StopwatchAdapter"/> class that is based the specified stopwatch.
     /// </summary>
     public StopwatchAdapter(Stopwatch stopwatch)
-    {  
+    {
         _stopwatch = stopwatch;
     }
 

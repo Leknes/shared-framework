@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Core\Loading\bin\Debug\net8.0\Senkel.Core.Loading.deps.json
+D:\Programming\C#\Senkel\Core\Loading\bin\Debug\net8.0\Senkel.Core.Loading.dll
+D:\Programming\C#\Senkel\Core\Loading\bin\Debug\net8.0\Senkel.Core.Loading.pdb
+D:\Programming\C#\Senkel\Core\Loading\bin\Debug\net8.0\Senkel.Core.Loading.xml
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.sourcelink.json
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.dll
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\refint\Senkel.Core.Loading.dll
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.xml
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\Senkel.Core.Loading.pdb
+D:\Programming\C#\Senkel\Core\Loading\obj\Debug\net8.0\ref\Senkel.Core.Loading.dll

@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.deps.json
+D:\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.dll
+D:\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.pdb
+D:\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.xml
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.sourcelink.json
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.dll
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\refint\Senkel.Core.Rendering.dll
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.xml
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.pdb
+D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\ref\Senkel.Core.Rendering.dll

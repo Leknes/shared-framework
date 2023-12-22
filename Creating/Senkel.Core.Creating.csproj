@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Model.Creating</PackageId>
+    <PackageDescription>A model providing interfaces regarding creational patterns.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

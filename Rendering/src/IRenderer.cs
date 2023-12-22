@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Rendering;
+namespace Senkel;
 
 /// <summary>
 /// Represents an object that is capable of rendering an image of the specified type.

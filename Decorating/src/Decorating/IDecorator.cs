@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Decorating;
- 
+namespace Senkel;
+
 /// <summary>
 /// Represents a decorator that decorates by executing a method with no parameters and no return value.
 /// </summary>
@@ -29,4 +29,3 @@ public interface IDecorator<in T>
     /// <param name="value">The value to use for decorating.</param>
     public void Decorate(T value);
 }
- 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Rendering;
+namespace Senkel;
 
 /// <summary>
 /// Represents a renderer that always returns the initially set identity value without any modification.

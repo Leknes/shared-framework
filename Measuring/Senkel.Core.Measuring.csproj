@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Model.Measuring</PackageId>
+    <PackageDescription>A model providing interfaces for measurement.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

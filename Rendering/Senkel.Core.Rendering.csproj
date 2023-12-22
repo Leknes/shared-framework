@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageDescription>A basic library for rendering plain images of an object.</PackageDescription>
+    <PackageId>Senkel.Model.Rendering</PackageId>
+  </PropertyGroup>
+ 
+</Project>

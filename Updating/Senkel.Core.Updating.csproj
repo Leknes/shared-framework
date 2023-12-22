@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageDescription>Provides a model for updating an object.</PackageDescription>
+    <PackageId>Senkel.Model.Updating</PackageId>
+  </PropertyGroup>
+ 
+</Project>

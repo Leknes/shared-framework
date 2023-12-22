@@ -1,4 +1,4 @@
-namespace Senkel.Model.Creating;
+namespace Senkel;
 
 /// <summary>
 /// Represents a object that is responsible for building an object of the specified type.

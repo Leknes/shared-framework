@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Senkel.Model.Decorating;
+namespace Senkel;
 
 /// <summary>
 /// Represents an object that can be decorated by another <see cref="IDecorator"/> object.
@@ -44,7 +44,7 @@ public abstract class Decorable
 /// Represents an object that can be decorated by another <see cref="IDecorator{T}"/> object.
 /// </summary>
 public class Decorable<T>
-{   
+{
     /// <summary>
     /// The decorator that is used by the decorable instance.
     /// </summary>
