@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Core.Converting</PackageId>
+    <PackageDescription>A collection of interfaces and functionalities regarding conversion.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

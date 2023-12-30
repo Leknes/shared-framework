@@ -44,38 +44,6 @@
             Resets the elapsed time and restarts the stopwatch.
             </summary>
         </member>
-        <member name="T:Senkel.OffsetStopwatch">
-            <summary>
-            Represents a stopwatch that measures time with an offset that is initially set.
-            </summary>
-        </member>
-        <member name="P:Senkel.OffsetStopwatch.Elapsed">
-            <summary>
-            How much time has been measured by the stopwatch with the initially set offset added.
-            </summary>
-        </member>
-        <member name="P:Senkel.OffsetStopwatch.Running">
-            <inheritdoc/>
-        </member>
-        <member name="M:Senkel.OffsetStopwatch.#ctor(Senkel.IStopwatch,System.TimeSpan)">
-            <summary>
-            Initializes a new <see cref="T:Senkel.OffsetStopwatch"/>
-            </summary>
-            <param name="stopwatch"></param>
-            <param name="elapsedOffset"></param>
-        </member>
-        <member name="M:Senkel.OffsetStopwatch.Reset">
-            <inheritdoc/>
-        </member>
-        <member name="M:Senkel.OffsetStopwatch.Restart">
-            <inheritdoc/>
-        </member>
-        <member name="M:Senkel.OffsetStopwatch.Start">
-            <inheritdoc/>
-        </member>
-        <member name="M:Senkel.OffsetStopwatch.Stop">
-            <inheritdoc/>
-        </member>
         <member name="T:Senkel.StopwatchAdapter">
             <summary>
             Represents an adapter that implements the <see cref="T:Senkel.IStopwatch"/> interface based on an <see cref="T:System.Diagnostics.Stopwatch"/> object.

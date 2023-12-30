@@ -12,3 +12,17 @@ D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\refint\Senkel.Core.Rend
 D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.xml
 D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.pdb
 D:\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\ref\Senkel.Core.Rendering.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\bin\Debug\net8.0\Senkel.Core.Rendering.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\refint\Senkel.Core.Rendering.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\Senkel.Core.Rendering.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Rendering\obj\Debug\net8.0\ref\Senkel.Core.Rendering.dll

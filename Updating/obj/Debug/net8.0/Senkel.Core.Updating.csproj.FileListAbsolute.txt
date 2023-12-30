@@ -12,3 +12,17 @@ D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\refint\Senkel.Core.Updat
 D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.xml
 D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.pdb
 D:\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\ref\Senkel.Core.Updating.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\bin\Debug\net8.0\Senkel.Core.Updating.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\refint\Senkel.Core.Updating.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\Senkel.Core.Updating.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Updating\obj\Debug\net8.0\ref\Senkel.Core.Updating.dll

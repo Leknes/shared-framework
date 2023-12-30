@@ -1,0 +1,14 @@
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\bin\Debug\net8.0\Senkel.Core.Converting.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\bin\Debug\net8.0\Senkel.Core.Converting.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\bin\Debug\net8.0\Senkel.Core.Converting.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\bin\Debug\net8.0\Senkel.Core.Converting.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\refint\Senkel.Core.Converting.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\Senkel.Core.Converting.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Converting\obj\Debug\net8.0\ref\Senkel.Core.Converting.dll

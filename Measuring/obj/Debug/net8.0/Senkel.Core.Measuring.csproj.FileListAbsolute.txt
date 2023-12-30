@@ -12,3 +12,17 @@ D:\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\refint\Senkel.Core.Meas
 D:\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.xml
 D:\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.pdb
 D:\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\ref\Senkel.Core.Measuring.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\bin\Debug\net8.0\Senkel.Core.Measuring.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\bin\Debug\net8.0\Senkel.Core.Measuring.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\bin\Debug\net8.0\Senkel.Core.Measuring.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\bin\Debug\net8.0\Senkel.Core.Measuring.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\refint\Senkel.Core.Measuring.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\Senkel.Core.Measuring.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Core\Measuring\obj\Debug\net8.0\ref\Senkel.Core.Measuring.dll

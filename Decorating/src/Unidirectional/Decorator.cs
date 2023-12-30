@@ -17,7 +17,6 @@ public abstract class Decorator : Decorable, IDecorator
     /// <param name="decorator">The decorator that this <see cref="Decorator"/> instance is based on.</param>
     public Decorator(IDecorator decorator) : base(decorator) { }
 
-
     /// <summary>
     /// Creates a new instance of the <see cref="Decorator"/> class that is based on no other decorator and therefore functions as a root for other decorators.
     /// </summary>
