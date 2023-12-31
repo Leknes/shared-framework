@@ -11,10 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Leonhard Senkel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Senkel.Core.Initializing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c70dfaaa7cb46c983a1c1f53e51009c7f6d1f94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Senkel.Core.Initializing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Senkel.Core.Initializing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
